@@ -1,0 +1,18 @@
+# 실행 파일 (Windows)
+*.exe
+*.out
+# 오브젝트 파일
+*.o
+*.obj
+
+# VS Code 설정 및 캐시
+.vscode/
+.history/
+
+# 빌드 결과물 폴더
+build/
+bin/
+
+# OS 생성 파일
+Thumbs.db
+.DS_Store
